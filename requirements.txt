@@ -48,4 +48,4 @@ watchdog==2.3.1
 wincertstore==0.2
 yarg==0.1.9
 zipp==3.15.0
-'Student Loan Debt by School 2020-2021.csv'
+https://github.com/suhasaitham22/S23_VA_HW/blob/9a5ada40f4918bb0149f92dac12ffd20431e3600/Student%20Loan%20Debt%20by%20School%202020-2021.csv
