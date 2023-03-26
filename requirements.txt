@@ -6,7 +6,6 @@ charset-normalizer==3.1.0
 click==8.1.3
 colorama==0.4.6
 decorator==5.1.1
-distlib @ file:///C:/b/abs_2cagtc9d6u/croot/distlib_1678983701062/work
 docopt==0.6.2
 entrypoints==0.4
 filelock @ file:///C:/ci_311/filelock_1676427284139/work
