@@ -1,7 +1,6 @@
 altair==4.2.2
 attrs==22.2.0
 blinker==1.5
-Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
 cachetools==5.3.0
 certifi @ file:///C:/ci_311/certifi_1676421629969/work/certifi
 charset-normalizer==3.1.0
