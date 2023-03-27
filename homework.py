@@ -3,7 +3,7 @@ import altair as alt
 import numpy as np
 import pandas as pd
 
-data=pd.read_csv('C:\\Users\\SUHAS\\Downloads\\S23_VA_HW\\Student Loan Debt by School 2020-2021.csv')
+data=pd.read_csv('C:\\Users\\SUHAS\\Downloads\\S23_VA_HW\\data.csv')
 st.write(data)
 
 st.sidebar.header("Pick two variables for your scatterplot")
